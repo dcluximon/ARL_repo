@@ -42,3 +42,6 @@ This tool queries CBCT scans from an ARIA database (Varian Medical Systems, Palo
 
 Example launch on cmd:
 > */ARL_repo_dir/*> Pipeline_python_by_date 2022-12-06
+
+## Support and Contact
+If you have questions and/or suggestions - please contact me at dcluximon@gmail.com
