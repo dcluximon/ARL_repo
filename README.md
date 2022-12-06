@@ -32,7 +32,7 @@ This tool queries CBCT scans from an ARIA database (Varian Medical Systems, Palo
   
     - report_path: folder location where the final report file (prediction) will be outputted.
   
-  - log_path: folder location where the log file will be saved.
+    - log_path: folder location where the log file will be saved.
   
     - asset_path: folder path to the assets required to build the report (none currently).
 
