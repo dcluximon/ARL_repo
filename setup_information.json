@@ -1,0 +1,26 @@
+{
+    "ARIA": {
+        "AETITLE": "INPUT ARIA SERVER AE TITLE",
+        "HOST": "INPUT ARIA SERVER AE IP",
+        "PORT": "INPUT ARIA SERVER PORT NUMBER"
+    },
+    "LOCAL_SCP": {
+        "AETITLE": "INPUT TRUSTED ENTITY 1 AE TITLE",
+        "HOST": "INPUT LOCAL COMPUTER IP",
+        "PORT": "INPUT TRUSTED ENTITY 1 PORT NUMBER"
+    },
+    "LOCAL_SCU": {
+        "AETITLE": "INPUT TRUSTED ENTITY 2 AE TITLE",
+        "HOST": "INPUT LOCAL COMPUTER IP",
+        "PORT": "INPUT TRUSTED ENTITY 2 PORT NUMBER"
+    },
+    "staging_path": "*INPUT_DIR*/ARL_repo/outputs",
+	"dicom_path": "*INPUT_DIR*/ARL_repo/outputs/daily_cbct_data",
+    "archive_path": "*INPUT_DIR*/ARL_repo/outputs/archive",
+    "report_path": "*INPUT_DIR*/ARL_repo/outputs/reports",
+    "log_path": "*INPUT_DIR*/ARL_repo/outputs/logs",
+    "asset_path": "*INPUT_DIR*/ARL_repo/outputs/assets",
+	"logo": "ucla_radonc.png",
+    "save_dicom_data_switch": "True",
+	"arl_model": "CBCT_AI/Models/Anatomy_Labeling_v3.hdf5"
+}

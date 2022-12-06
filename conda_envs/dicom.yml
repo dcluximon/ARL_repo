@@ -1,0 +1,55 @@
+name: dicom
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - altgraph=0.17=pyhd3eb1b0_0
+  - blas=1.0=mkl
+  - bottleneck=1.3.2=py39h7cc1a96_1
+  - ca-certificates=2022.4.26=haa95532_0
+  - et_xmlfile=1.1.0=py39haa95532_0
+  - future=0.18.2=py39haa95532_1
+  - icu=58.2=ha925a31_3
+  - intel-openmp=2021.4.0=haa95532_3556
+  - jinja2=3.0.2=pyhd3eb1b0_0
+  - jpeg=9d=h2bbff1b_0
+  - libpng=1.6.37=h2a8f88b_0
+  - macholib=1.14=pyhd3eb1b0_1
+  - markupsafe=2.0.1=py39h2bbff1b_0
+  - mkl=2021.4.0=haa95532_640
+  - mkl-service=2.4.0=py39h2bbff1b_0
+  - mkl_fft=1.3.1=py39h277e83a_0
+  - mkl_random=1.2.2=py39hf11a4ad_0
+  - numexpr=2.8.1=py39hb80d3ca_0
+  - numpy=1.21.5=py39ha4e8547_0
+  - numpy-base=1.21.5=py39hc2deb75_0
+  - openpyxl=3.0.9=pyhd3eb1b0_0
+  - openssl=1.1.1o=h2bbff1b_0
+  - packaging=21.3=pyhd3eb1b0_0
+  - pandas=1.3.4=py39h6214cd6_0
+  - pefile=2019.4.18=py_0
+  - pip=21.2.4=pyhd8ed1ab_0
+  - pycryptodome=3.12.0=py39h2bbff1b_0
+  - pydicom=2.2.0=pyh6c4a22f_0
+  - pyinstaller=3.6=py39h8cc25b3_6
+  - pynetdicom=2.0.2=pyhd8ed1ab_0
+  - pyparsing=3.0.4=pyhd3eb1b0_0
+  - pyqt=5.9.2=py39hd77b12b_6
+  - python=3.9.6=h7840368_1_cpython
+  - python-dateutil=2.8.2=pyhd3eb1b0_0
+  - python_abi=3.9=2_cp39
+  - pytz=2021.3=pyhd3eb1b0_0
+  - pywin32=302=py39h827c3e9_1
+  - pywin32-ctypes=0.2.0=py39haa95532_1000
+  - qt=5.9.7=vc14h73c81de_0
+  - setuptools=57.4.0=py39hcbf5309_0
+  - sip=4.19.13=py39hd77b12b_0
+  - six=1.16.0=pyhd3eb1b0_1
+  - sqlite=3.36.0=h8ffe710_0
+  - tzdata=2021a=he74cb21_1
+  - ucrt=10.0.20348.0=h57928b3_0
+  - vc=14.2=hb210afc_5
+  - vs2015_runtime=14.29.30037=h902a5da_5
+  - wheel=0.37.0=pyhd8ed1ab_1
+  - zlib=1.2.11=h62dcd97_4
+prefix: D:\dluximon\Miniconda3\envs\dicom
