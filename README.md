@@ -43,5 +43,9 @@ This tool queries CBCT scans from an ARIA database (Varian Medical Systems, Palo
 Example launch on cmd:
 > */ARL_repo_dir/*> Pipeline_python_by_date 2022-12-06
 
+
+## If you use part or all of this repository, please cite:
+> **Luximon, D. C., Neylon, J., & Lamb, J. M. (2023). Feasibility of a deep-learning based anatomical region labeling tool for Cone-Beam Computed Tomography scans in Radiotherapy. Physics and Imaging in Radiation Oncology, 100427. https://doi.org/10.1016/j.phro.2023.100427**
+
 ## Support and Contact
 If you have questions and/or suggestions - please contact me at dcluximon@gmail.com
